@@ -27,3 +27,26 @@ Es wurde nur die Mindestanforderung erfüllt:
     <script src="script.js"></script>
 </body>
 </html>
+
+
+Hier wurde nur das Umfeld designed:
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    color: #000000;
+}
+
+#output {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
