@@ -8,8 +8,6 @@ Ich habe das Program in VS-Code, mit Live-Server umgesetzt.
 Dabei habe ich eine html.index, styles.css und eine JavaScript datei erstellt.
 
 ## HTML
-<index.html>
-
 ## CSS
 ## JS
 
